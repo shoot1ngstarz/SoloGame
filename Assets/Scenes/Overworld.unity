@@ -2685,7 +2685,7 @@ MonoBehaviour:
   - {fileID: 962689635, guid: 289de998972f61b4c86c83cdea1e61ea, type: 3}
   walkLeftSprites: []
   walkRightSprites: []
-  animationSpeed: 0.1
+  animationSpeed: 0.075
 --- !u!50 &1722659858
 Rigidbody2D:
   serializedVersion: 4
