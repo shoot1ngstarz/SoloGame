@@ -2669,20 +2669,30 @@ MonoBehaviour:
   - {fileID: 812081635, guid: 273f47d55b2b6cb44982d8b2c19cee44, type: 3}
   - {fileID: -529461395, guid: 273f47d55b2b6cb44982d8b2c19cee44, type: 3}
   - {fileID: -1571009060, guid: 273f47d55b2b6cb44982d8b2c19cee44, type: 3}
-  walkUpSprites: []
+  walkUpSprites:
+  - {fileID: 1495681555, guid: a16324281e92e1547b4e21732a192f0d, type: 3}
+  - {fileID: -1165432210, guid: a16324281e92e1547b4e21732a192f0d, type: 3}
+  - {fileID: 805289673, guid: a16324281e92e1547b4e21732a192f0d, type: 3}
+  - {fileID: 823442330, guid: a16324281e92e1547b4e21732a192f0d, type: 3}
+  - {fileID: 238057211, guid: a16324281e92e1547b4e21732a192f0d, type: 3}
+  - {fileID: -49101608, guid: a16324281e92e1547b4e21732a192f0d, type: 3}
+  - {fileID: -1718167642, guid: a16324281e92e1547b4e21732a192f0d, type: 3}
+  - {fileID: -481656526, guid: a16324281e92e1547b4e21732a192f0d, type: 3}
+  - {fileID: 1898739651, guid: a16324281e92e1547b4e21732a192f0d, type: 3}
+  - {fileID: -724937358, guid: a16324281e92e1547b4e21732a192f0d, type: 3}
+  - {fileID: 614303341, guid: a16324281e92e1547b4e21732a192f0d, type: 3}
   walkDownSprites:
-  - {fileID: -1025876273, guid: 289de998972f61b4c86c83cdea1e61ea, type: 3}
-  - {fileID: -939749704, guid: 289de998972f61b4c86c83cdea1e61ea, type: 3}
-  - {fileID: -169852283, guid: 289de998972f61b4c86c83cdea1e61ea, type: 3}
-  - {fileID: -1184834464, guid: 289de998972f61b4c86c83cdea1e61ea, type: 3}
-  - {fileID: -4678448, guid: 289de998972f61b4c86c83cdea1e61ea, type: 3}
-  - {fileID: 217079149, guid: 289de998972f61b4c86c83cdea1e61ea, type: 3}
-  - {fileID: 868300828, guid: 289de998972f61b4c86c83cdea1e61ea, type: 3}
-  - {fileID: -1549254910, guid: 289de998972f61b4c86c83cdea1e61ea, type: 3}
-  - {fileID: 426724360, guid: 289de998972f61b4c86c83cdea1e61ea, type: 3}
-  - {fileID: 255957179, guid: 289de998972f61b4c86c83cdea1e61ea, type: 3}
-  - {fileID: 1622284586, guid: 289de998972f61b4c86c83cdea1e61ea, type: 3}
-  - {fileID: 962689635, guid: 289de998972f61b4c86c83cdea1e61ea, type: 3}
+  - {fileID: 1778061306, guid: 5af0b10158e7dd94099f8f7251473831, type: 3}
+  - {fileID: -1738173598, guid: 5af0b10158e7dd94099f8f7251473831, type: 3}
+  - {fileID: -803912512, guid: 5af0b10158e7dd94099f8f7251473831, type: 3}
+  - {fileID: 2102630160, guid: 5af0b10158e7dd94099f8f7251473831, type: 3}
+  - {fileID: -11039986, guid: 5af0b10158e7dd94099f8f7251473831, type: 3}
+  - {fileID: -1168053011, guid: 5af0b10158e7dd94099f8f7251473831, type: 3}
+  - {fileID: -624591279, guid: 5af0b10158e7dd94099f8f7251473831, type: 3}
+  - {fileID: 791819646, guid: 5af0b10158e7dd94099f8f7251473831, type: 3}
+  - {fileID: 911105377, guid: 5af0b10158e7dd94099f8f7251473831, type: 3}
+  - {fileID: -1323476030, guid: 5af0b10158e7dd94099f8f7251473831, type: 3}
+  - {fileID: -658915346, guid: 5af0b10158e7dd94099f8f7251473831, type: 3}
   walkLeftSprites: []
   walkRightSprites: []
   animationSpeed: 0.075

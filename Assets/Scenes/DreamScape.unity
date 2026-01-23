@@ -2669,7 +2669,18 @@ MonoBehaviour:
   - {fileID: 812081635, guid: 273f47d55b2b6cb44982d8b2c19cee44, type: 3}
   - {fileID: -529461395, guid: 273f47d55b2b6cb44982d8b2c19cee44, type: 3}
   - {fileID: -1571009060, guid: 273f47d55b2b6cb44982d8b2c19cee44, type: 3}
-  walkUpSprites: []
+  walkUpSprites:
+  - {fileID: 1495681555, guid: a16324281e92e1547b4e21732a192f0d, type: 3}
+  - {fileID: -1165432210, guid: a16324281e92e1547b4e21732a192f0d, type: 3}
+  - {fileID: 805289673, guid: a16324281e92e1547b4e21732a192f0d, type: 3}
+  - {fileID: 823442330, guid: a16324281e92e1547b4e21732a192f0d, type: 3}
+  - {fileID: 238057211, guid: a16324281e92e1547b4e21732a192f0d, type: 3}
+  - {fileID: -49101608, guid: a16324281e92e1547b4e21732a192f0d, type: 3}
+  - {fileID: -1718167642, guid: a16324281e92e1547b4e21732a192f0d, type: 3}
+  - {fileID: -481656526, guid: a16324281e92e1547b4e21732a192f0d, type: 3}
+  - {fileID: 1898739651, guid: a16324281e92e1547b4e21732a192f0d, type: 3}
+  - {fileID: -724937358, guid: a16324281e92e1547b4e21732a192f0d, type: 3}
+  - {fileID: 614303341, guid: a16324281e92e1547b4e21732a192f0d, type: 3}
   walkDownSprites:
   - {fileID: 1812537541, guid: 5e47418fc8e1cb94e97f57d641d9377c, type: 3}
   - {fileID: -1085400691, guid: 5e47418fc8e1cb94e97f57d641d9377c, type: 3}
