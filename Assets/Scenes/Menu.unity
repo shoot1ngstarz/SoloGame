@@ -337,6 +337,7 @@ GameObject:
   - component: {fileID: 1138641352}
   - component: {fileID: 1138641351}
   - component: {fileID: 1138641354}
+  - component: {fileID: 1138641355}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -462,6 +463,18 @@ MonoBehaviour:
     mipBias: 0
     varianceClampScale: 0.9
     contrastAdaptiveSharpening: 0
+--- !u!114 &1138641355
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1138641350}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81b72d6f7d86f804db90bcd78280bec4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1527621371
 GameObject:
   m_ObjectHideFlags: 0
@@ -646,7 +659,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1629585438}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1138641355}
+        m_TargetAssemblyTypeName: Main_Menu, Assembly-CSharp
+        m_MethodName: PlayGame
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1629585438
 MonoBehaviour:
   m_ObjectHideFlags: 0
