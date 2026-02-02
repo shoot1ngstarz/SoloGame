@@ -2693,8 +2693,36 @@ MonoBehaviour:
   - {fileID: 911105377, guid: 5af0b10158e7dd94099f8f7251473831, type: 3}
   - {fileID: -1323476030, guid: 5af0b10158e7dd94099f8f7251473831, type: 3}
   - {fileID: -658915346, guid: 5af0b10158e7dd94099f8f7251473831, type: 3}
-  walkLeftSprites: []
-  walkRightSprites: []
+  walkLeftSprites:
+  - {fileID: 1237995501, guid: 51ac57a8b12341740aa298bfa6d89d1f, type: 3}
+  - {fileID: 110369746, guid: 51ac57a8b12341740aa298bfa6d89d1f, type: 3}
+  - {fileID: 829622389, guid: 51ac57a8b12341740aa298bfa6d89d1f, type: 3}
+  - {fileID: 795072074, guid: 51ac57a8b12341740aa298bfa6d89d1f, type: 3}
+  - {fileID: -1448158247, guid: 51ac57a8b12341740aa298bfa6d89d1f, type: 3}
+  - {fileID: 2031728979, guid: 51ac57a8b12341740aa298bfa6d89d1f, type: 3}
+  - {fileID: 766176692, guid: 51ac57a8b12341740aa298bfa6d89d1f, type: 3}
+  - {fileID: 1477696752, guid: 51ac57a8b12341740aa298bfa6d89d1f, type: 3}
+  - {fileID: -1883894494, guid: 51ac57a8b12341740aa298bfa6d89d1f, type: 3}
+  - {fileID: -1750622830, guid: 51ac57a8b12341740aa298bfa6d89d1f, type: 3}
+  - {fileID: -1795963993, guid: 51ac57a8b12341740aa298bfa6d89d1f, type: 3}
+  - {fileID: -633747267, guid: 51ac57a8b12341740aa298bfa6d89d1f, type: 3}
+  - {fileID: -1528526748, guid: 51ac57a8b12341740aa298bfa6d89d1f, type: 3}
+  - {fileID: 386057093, guid: 51ac57a8b12341740aa298bfa6d89d1f, type: 3}
+  walkRightSprites:
+  - {fileID: 78868981, guid: c091059787ee2324d838a7c7cd9307d6, type: 3}
+  - {fileID: 712536559, guid: c091059787ee2324d838a7c7cd9307d6, type: 3}
+  - {fileID: -7649881, guid: c091059787ee2324d838a7c7cd9307d6, type: 3}
+  - {fileID: 1395169100, guid: c091059787ee2324d838a7c7cd9307d6, type: 3}
+  - {fileID: -103502374, guid: c091059787ee2324d838a7c7cd9307d6, type: 3}
+  - {fileID: -1816351986, guid: c091059787ee2324d838a7c7cd9307d6, type: 3}
+  - {fileID: -1019524889, guid: c091059787ee2324d838a7c7cd9307d6, type: 3}
+  - {fileID: -1528517452, guid: c091059787ee2324d838a7c7cd9307d6, type: 3}
+  - {fileID: 1932565752, guid: c091059787ee2324d838a7c7cd9307d6, type: 3}
+  - {fileID: -1333562552, guid: c091059787ee2324d838a7c7cd9307d6, type: 3}
+  - {fileID: -265920445, guid: c091059787ee2324d838a7c7cd9307d6, type: 3}
+  - {fileID: -2130908828, guid: c091059787ee2324d838a7c7cd9307d6, type: 3}
+  - {fileID: 1899687213, guid: c091059787ee2324d838a7c7cd9307d6, type: 3}
+  - {fileID: -9548126, guid: c091059787ee2324d838a7c7cd9307d6, type: 3}
   animationSpeed: 0.075
 --- !u!50 &1722659858
 Rigidbody2D:
