@@ -14,4 +14,15 @@ public class Main_Menu : MonoBehaviour
     {
         Application.Quit();
     }
+    
+    // Called by the UI Toggle
+    public void SetFullScreen(bool isFullScreen)
+    {
+        Screen.fullScreen = isFullScreen;
+
+        // Optional but recommended:
+        Screen.fullScreenMode = isFullScreen
+            ? FullScreenMode.ExclusiveFullScreen
+            : FullScreenMode.Windowed;
+    }
 }
